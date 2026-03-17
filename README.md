@@ -1,5 +1,9 @@
 # PULSE-Anthropic
 
+[![PyPI version](https://badge.fury.io/py/pulse-anthropic.svg)](https://pypi.org/project/pulse-anthropic/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/pulse-anthropic.svg)](https://pypi.org/project/pulse-anthropic/)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+
 **Anthropic Claude adapter for PULSE Protocol — talk to Claude with semantic messages.**
 
 Same interface as pulse-openai — swap provider in one line. Zero Anthropic boilerplate.
